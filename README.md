@@ -47,6 +47,8 @@ I started as an Android developer writing Kotlin and Java, then moved into cross
 | **[RepWhiz](https://abdullahtauseef.com/work/repwhiz)** | Appointment scheduling for pharma sales reps and medical offices. | [iOS](https://apps.apple.com/gt/app/repwhiz/id1637073994) |
 | **[Deine Wunschbox](https://abdullahtauseef.com/work/deine-wunschbox)** | Family gift wishlist app with private sharing and gift claiming. | [iOS](https://apps.apple.com/pk/app/deine-wunschbox/id6753208761) |
 | **[Anqa Furniture](https://abdullahtauseef.com/work/anqa-furniture)** | Website for a Lahore outdoor furniture maker, with a product catalogue and WhatsApp quotes. | [Website](https://anqafurniture.com) |
+| **HiBiz Insight** | Website for a Lahore chartered accountancy firm: audit, FBR & PRA tax filing, SECP company registration, Odoo ERP and web & mobile development. Built with Next.js. | [Website](https://hibizinsight.com) |
+| **Dr. Tauseef Qamar** | Website for a consultant radiologist in Lahore: home ultrasound booking, plus online X-ray reports and consultations. Built with Next.js. | [Website](https://drtauseefqamar.com) |
 
 👉 Case studies for every project: **[abdullahtauseef.com/work](https://abdullahtauseef.com/work)**
 
@@ -57,6 +59,7 @@ I started as an Android developer writing Kotlin and Java, then moved into cross
 | **Mobile** | React Native, Flutter, Kotlin, Java, Jetpack, Hilt, Room, Bluetooth / BLE |
 | **Web** | Next.js, React, PHP, Laravel |
 | **Backend** | Node.js, Firebase, MongoDB |
+| **Payments & real-time** | Stripe, RevenueCat, Apple Pay, Google Pay, FCM, Pusher, Agora, ZegoCloud |
 | **Cloud & hosting** | AWS, Railway |
 | **App release** | App Store Connect, Google Play Console |
 | **ERP** | Odoo 17 · 18 · 19: implementation, customisation, upgrades, server management |
